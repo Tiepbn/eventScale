@@ -1,3 +1,3 @@
 # eventScale
-Link data set:
+Link dataset:
   https://drive.google.com/drive/folders/1YZLdEk4g3r00yylPCr1N_gpDG8lvvGxK
